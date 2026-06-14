@@ -138,26 +138,6 @@ Status:
 ▰▰▰▰▰▱▱▱▱▱  DevOps & Cloud
 ```
 
----
-
-# 📌 Featured Repositories
-
-### 🚀 RIZZ-Desktop
-Modern desktop applications built with C# and .NET.
-
-### ⚡ RIZZ-Automation
-Python automation and productivity tools.
-
-### 🌐 RIZZ-API
-Backend services and REST APIs.
-
-### 🛠️ RIZZ-Utilities
-Useful utilities and developer tools.
-
-### 🔬 RIZZ-Labs
-Experimental projects and research.
-
----
 
 # 📈 Activity
 
