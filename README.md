@@ -165,15 +165,7 @@ Status:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIZZxPY77&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/RIZZxPY77/RIZZxPY77/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 # 🏅 Featured Skills
 
