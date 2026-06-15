@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm XRIZZ.PY777</h1>
+# Hi 👋, I'm XRIZZ.PY777
 
-<h3 align="center">
-Full Stack Developer • Desktop Developer • Mobile Developer • Automation Engineer
-</h3>
+### Full Stack Developer • Desktop Developer • Mobile Developer • Automation Enthusiast
 
 <p align="center">
-Building modern applications, mobile apps, desktop tools, automation systems, and developer utilities.
+Building modern applications, desktop tools, mobile apps, automation systems, and developer utilities.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RIZZxPY77&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=RIZZxPY77&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Desktop+Application+Developer;Mobile+Application+Developer;Java+%26+Kotlin+Developer;C%23+%2F+.NET+Developer;Python+Automation+Engineer;Building+Useful+Software;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Desktop+Application+Developer;Mobile+Application+Developer;Java+%26+Kotlin+Developer;C%23+%2F+.NET+Developer;Python+Automation+Engineer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -23,57 +21,56 @@ Building modern applications, mobile apps, desktop tools, automation systems, an
 ```yaml
 Name: XRIZZ.PY777
 
-Roles:
+Role:
   - Full Stack Developer
   - Desktop Application Developer
   - Mobile Application Developer
   - Python Developer
 
-Specialization:
+Focus:
   - C# / .NET
   - Java & Kotlin
   - Python Automation
-  - REST API Development
-  - Software Architecture
   - Windows Applications
   - Android Applications
-  - Developer Utilities
+  - API Development
+  - Software Architecture
+  - Developer Tools
 
-Current Status:
+Status:
   - Building useful software
   - Learning every day
-  - Exploring new technologies
 ```
 
 ---
 
 # 🧰 Tech Stack
 
-### 💻 Languages
+## Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,java,kotlin,python,js,ts,html,css" />
 </p>
 
-### ⚙️ Frameworks & Technologies
+## Frameworks & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,express" />
 </p>
 
-### 📱 Mobile Development
+## Mobile Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" />
 </p>
 
-### 🗄️ Databases
+## Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 </p>
 
-### 🛠️ Tools
+## Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
@@ -83,35 +80,37 @@ Current Status:
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RIZZxPY77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIZZxPY77&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=RIZZxPY77&theme=tokyonight&hide_border=true"/>
-</p>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RIZZxPY77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
 
 ---
 
-# 🏆 Development Areas
+# 🏆 Development Focus
 
 <table>
 <tr>
-
 <td width="33%">
 
 ## 🖥️ Desktop Development
 
-- Windows Applications
-- C# .NET Development
-- WPF & WinForms
-- Productivity Software
-- Utility Applications
-- Custom Business Tools
+* Windows Applications
+* C# .NET Applications
+* WPF & WinForms
+* Productivity Software
+* Utility Applications
 
 </td>
 
@@ -119,12 +118,12 @@ Current Status:
 
 ## 📱 Mobile Development
 
-- Android Development
-- Java Applications
-- Kotlin Applications
-- Firebase Integration
-- Material Design
-- REST API Integration
+* Android Applications
+* Java Development
+* Kotlin Development
+* Material Design
+* Firebase
+* REST API Integration
 
 </td>
 
@@ -132,12 +131,11 @@ Current Status:
 
 ## 🐍 Python Development
 
-- Automation Systems
-- API Integration
-- Data Processing
-- Custom Tooling
-- Desktop Utilities
-- Workflow Automation
+* Automation Scripts
+* API Integration
+* Data Processing
+* Custom Tooling
+* Desktop Utilities
 
 </td>
 
@@ -148,67 +146,44 @@ Current Status:
 
 # 🌐 Full Stack Development
 
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- Responsive UI Design
-
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- Authentication Systems
-
-### Database
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
-
-### Architecture
-
-- Clean Architecture
-- Scalable Systems
-- Modular Development
-- Performance Optimization
+* REST APIs
+* Authentication Systems
+* Dashboard Applications
+* Frontend Development
+* Backend Services
+* Database Design
 
 ---
 
 # 🎯 Current Focus
 
 ```text
-▰▰▰▰▰▰▰▰▰▱  C# / .NET Desktop Applications
-
-▰▰▰▰▰▰▰▰▱▱  Java & Kotlin Android Development
-
-▰▰▰▰▰▰▰▱▱▱  Python Automation Systems
-
+▰▰▰▰▰▰▰▰▰▱  C# / .NET Desktop Apps
+▰▰▰▰▰▰▰▰▱▱  Java & Kotlin Mobile Apps
+▰▰▰▰▰▰▰▱▱▱  Python Automation
 ▰▰▰▰▰▰▱▱▱▱  Full Stack Development
-
-▰▰▰▰▰▱▱▱▱▱  Software Architecture & DevOps
+▰▰▰▰▰▱▱▱▱▱  Software Architecture
 ```
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIZZxPY77&theme=tokyo-night&hide_border=true"/>
 </p>
 
-# 🏅 GitHub Trophies
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RIZZxPY77&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/RIZZxPY77/RIZZxPY77/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 📌 Featured Skills
+# 🏅 Featured Skills
 
 <p align="center">
 
@@ -228,12 +203,30 @@ Current Status:
 
 ---
 
-# 🤝 Connect
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/RIZZxPY77">
-<img src="https://skillicons.dev/icons?i=github" />
+
+<a href="https://instagram.com/rizzxv2x">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<a href="https://www.tiktok.com/@rizzxitersxff">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@rizzxitersneverdie">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/B6tcHppgeY">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RIZZxPY77">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
