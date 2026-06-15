@@ -1,9 +1,11 @@
-# Hi 👋, I'm XRIZZ.PY777
+<h1 align="center">Hi 👋, I'm XRIZZ.PY777</h1>
 
-### Full Stack Developer • Desktop Developer • Mobile Developer • Automation Enthusiast
+<h3 align="center">
+Full Stack Developer • Desktop Developer • Mobile Developer • Automation Engineer
+</h3>
 
 <p align="center">
-Building modern applications, desktop tools, mobile apps, automation systems, and developer utilities.
+Building modern applications, mobile apps, desktop tools, automation systems, and developer utilities.
 </p>
 
 <p align="center">
@@ -21,21 +23,20 @@ Building modern applications, desktop tools, mobile apps, automation systems, an
 ```yaml
 Name: XRIZZ.PY777
 
-Role:
+Roles:
   - Full Stack Developer
   - Desktop Application Developer
   - Mobile Application Developer
   - Python Developer
 
-Focus:
+Specialization:
   - C# / .NET
   - Java & Kotlin
   - Python Automation
+  - REST API Development
+  - Software Architecture
   - Windows Applications
   - Android Applications
-  - API Development
-  - Software Architecture
-  - Developer Tools
 
 Status:
   - Building useful software
@@ -46,31 +47,31 @@ Status:
 
 # 🧰 Tech Stack
 
-## Languages
+### 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,java,kotlin,python,js,ts,html,css" />
 </p>
 
-## Frameworks & Technologies
+### ⚙️ Frameworks & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,express" />
 </p>
 
-## Mobile Development
+### 📱 Mobile Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" />
 </p>
 
-## Databases
+### 🗄️ Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 </p>
 
-## Tools
+### 🛠️ Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
@@ -86,11 +87,13 @@ Status:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIZZxPY77&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=RIZZxPY77&theme=tokyonight&hide_border=true"/>
+---
 
-<br><br>
+# 🏆 GitHub Trophies
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=RIZZxPY77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
@@ -98,44 +101,56 @@ Status:
 
 ---
 
-# 🏆 Development Focus
+# 🎯 Current Focus
+
+```text
+▰▰▰▰▰▰▰▰▰▱  C# / .NET Desktop Apps
+▰▰▰▰▰▰▰▰▱▱  Java & Kotlin Android Apps
+▰▰▰▰▰▰▰▱▱▱  Python Automation
+▰▰▰▰▰▰▱▱▱▱  Full Stack Development
+▰▰▰▰▰▱▱▱▱▱  Software Architecture
+```
+
+---
+
+# 🏗️ Development Areas
 
 <table>
 <tr>
+
 <td width="33%">
 
-## 🖥️ Desktop Development
+### 🖥️ Desktop Development
 
 * Windows Applications
-* C# .NET Applications
 * WPF & WinForms
-* Productivity Software
-* Utility Applications
+* Utility Software
+* Productivity Tools
+* .NET Development
 
 </td>
 
 <td width="33%">
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
-* Android Applications
-* Java Development
-* Kotlin Development
-* Material Design
+* Android Development
+* Java
+* Kotlin
 * Firebase
-* REST API Integration
+* Material Design
 
 </td>
 
 <td width="33%">
 
-## 🐍 Python Development
+### 🐍 Python Development
 
 * Automation Scripts
 * API Integration
 * Data Processing
 * Custom Tooling
-* Desktop Utilities
+* Bots & Utilities
 
 </td>
 
@@ -144,30 +159,7 @@ Status:
 
 ---
 
-# 🌐 Full Stack Development
-
-* REST APIs
-* Authentication Systems
-* Dashboard Applications
-* Frontend Development
-* Backend Services
-* Database Design
-
----
-
-# 🎯 Current Focus
-
-```text
-▰▰▰▰▰▰▰▰▰▱  C# / .NET Desktop Apps
-▰▰▰▰▰▰▰▰▱▱  Java & Kotlin Mobile Apps
-▰▰▰▰▰▰▰▱▱▱  Python Automation
-▰▰▰▰▰▰▱▱▱▱  Full Stack Development
-▰▰▰▰▰▱▱▱▱▱  Software Architecture
-```
-
----
-
-# 📈 Activity
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIZZxPY77&theme=tokyo-night&hide_border=true"/>
