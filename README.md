@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm XRIZZ.PY777</h1>
 
 <h3 align="center">
-Full Stack Developer • Desktop Application Developer • Automation Enthusiast
+Full Stack Developer • Desktop Developer • Mobile Developer • Automation Engineer
 </h3>
 
 <p align="center">
-Building modern applications, desktop tools, automation systems, and developer utilities.
+Building modern applications, mobile apps, desktop tools, automation systems, and developer utilities.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RIZZxPY77&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RIZZxPY77&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Desktop+Application+Developer;C%23+%2F+.NET+Developer;Python+Automation+Engineer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Desktop+Application+Developer;Mobile+Application+Developer;Java+%26+Kotlin+Developer;C%23+%2F+.NET+Developer;Python+Automation+Engineer;Building+Useful+Software;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -23,47 +23,57 @@ Building modern applications, desktop tools, automation systems, and developer u
 ```yaml
 Name: XRIZZ.PY777
 
-Role:
+Roles:
   - Full Stack Developer
   - Desktop Application Developer
+  - Mobile Application Developer
   - Python Developer
 
-Focus:
+Specialization:
   - C# / .NET
+  - Java & Kotlin
   - Python Automation
-  - Windows Applications
-  - API Development
+  - REST API Development
   - Software Architecture
-  - Developer Tools
+  - Windows Applications
+  - Android Applications
+  - Developer Utilities
 
-Status:
+Current Status:
   - Building useful software
   - Learning every day
+  - Exploring new technologies
 ```
 
 ---
 
 # 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,java,kotlin,python,js,ts,html,css" />
 </p>
 
-### Frameworks & Technologies
+### ⚙️ Frameworks & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,express" />
 </p>
 
-### Databases
+### 📱 Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" />
+</p>
+
+### 🗄️ Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
@@ -74,9 +84,11 @@ Status:
 # 📊 GitHub Statistics
 
 <p align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RIZZxPY77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIZZxPY77&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
@@ -85,33 +97,50 @@ Status:
 
 ---
 
-# 🏆 Development Focus
+# 🏆 Development Areas
 
 <table>
 <tr>
-<td width="50%">
 
-### 🖥️ Desktop Development
+<td width="33%">
+
+## 🖥️ Desktop Development
 
 - Windows Applications
-- C# .NET Applications
+- C# .NET Development
 - WPF & WinForms
 - Productivity Software
 - Utility Applications
+- Custom Business Tools
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-### 🐍 Python Development
+## 📱 Mobile Development
 
-- Automation Scripts
+- Android Development
+- Java Applications
+- Kotlin Applications
+- Firebase Integration
+- Material Design
+- REST API Integration
+
+</td>
+
+<td width="33%">
+
+## 🐍 Python Development
+
+- Automation Systems
 - API Integration
 - Data Processing
 - Custom Tooling
 - Desktop Utilities
+- Workflow Automation
 
 </td>
+
 </tr>
 </table>
 
@@ -119,30 +148,92 @@ Status:
 
 # 🌐 Full Stack Development
 
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- Responsive UI Design
+
+### Backend
+
+- Node.js
+- Express.js
 - REST APIs
 - Authentication Systems
-- Dashboard Applications
-- Frontend Development
-- Backend Services
-- Database Design
+
+### Database
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### Architecture
+
+- Clean Architecture
+- Scalable Systems
+- Modular Development
+- Performance Optimization
 
 ---
 
 # 🎯 Current Focus
 
 ```text
-▰▰▰▰▰▰▰▰▰▱  C# / .NET Desktop Apps
-▰▰▰▰▰▰▰▰▱▱  Python Automation
-▰▰▰▰▰▰▰▱▱▱  Full Stack Development
-▰▰▰▰▰▰▱▱▱▱  Software Architecture
-▰▰▰▰▰▱▱▱▱▱  DevOps & Cloud
+▰▰▰▰▰▰▰▰▰▱  C# / .NET Desktop Applications
+
+▰▰▰▰▰▰▰▰▱▱  Java & Kotlin Android Development
+
+▰▰▰▰▰▰▰▱▱▱  Python Automation Systems
+
+▰▰▰▰▰▰▱▱▱▱  Full Stack Development
+
+▰▰▰▰▰▱▱▱▱▱  Software Architecture & DevOps
 ```
 
+---
 
-# 📈 Activity
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIZZxPY77&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/RIZZxPY77/RIZZxPY77/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RIZZxPY77&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📌 Featured Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
 </p>
 
 ---
